@@ -18,3 +18,4 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 Смотри, какой я крутой! 
 Я уже смотрю на тебя!
 Привет!
+Да!
